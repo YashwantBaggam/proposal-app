@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proposal-app/static/css/main.c76504a3.chunk.css",
+    "main.js": "/proposal-app/static/js/main.9cac6165.chunk.js",
+    "main.js.map": "/proposal-app/static/js/main.9cac6165.chunk.js.map",
+    "runtime-main.js": "/proposal-app/static/js/runtime-main.1b23cd0c.js",
+    "runtime-main.js.map": "/proposal-app/static/js/runtime-main.1b23cd0c.js.map",
+    "static/js/2.89e43faf.chunk.js": "/proposal-app/static/js/2.89e43faf.chunk.js",
+    "static/js/2.89e43faf.chunk.js.map": "/proposal-app/static/js/2.89e43faf.chunk.js.map",
+    "static/js/3.193b0b4b.chunk.js": "/proposal-app/static/js/3.193b0b4b.chunk.js",
+    "static/js/3.193b0b4b.chunk.js.map": "/proposal-app/static/js/3.193b0b4b.chunk.js.map",
+    "index.html": "/proposal-app/index.html",
+    "static/css/main.c76504a3.chunk.css.map": "/proposal-app/static/css/main.c76504a3.chunk.css.map",
+    "static/js/2.89e43faf.chunk.js.LICENSE.txt": "/proposal-app/static/js/2.89e43faf.chunk.js.LICENSE.txt",
+    "static/media/sowHoney.27954615.jpeg": "/proposal-app/static/media/sowHoney.27954615.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b23cd0c.js",
+    "static/js/2.89e43faf.chunk.js",
+    "static/css/main.c76504a3.chunk.css",
+    "static/js/main.9cac6165.chunk.js"
+  ]
+}
